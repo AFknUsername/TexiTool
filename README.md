@@ -5,7 +5,7 @@ you should know what it's for...
 ## How to use..
 Open the book program that shall not be named, set it so that the entire page can be visible, and set it to scroll sideways.
 Either download jar, or download source and execute.
-### First you should do a test run with 1 page becuase you might encournter some security prompts (like recording screen)
+### First you should do a test run with 1 page because you might encounter some security prompts (like recording screen)
 A white overlay will appear, alt-tab in a way so that the book app is under the overlay.
 click on top-left and then bottom-right corners of the page area to be scanned.
 overlay should go away and you will get a prompt (consider the pages before "1" when totalling).
