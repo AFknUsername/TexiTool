@@ -18,4 +18,7 @@ If you want to scan more than one, move the first scan beforehand because they w
 
 Then you take all the png's open them in your photos app or whatever, select all, and print as pdf.
 
-The quality wont be great but I'm not sure how to get around that. 
+The quality wont be great but I'm not sure how to get around that.
+
+ **Note**: If your book is an ebub, only do one chapter at a time because there is an unexpected delay when going from chapter to chapter.
+ If you want to check the file type, then open tex and click one the 3 dots and view file info.
